@@ -11,12 +11,12 @@ Current development work is being done on FreeBSD 13.0-RC4.
 The FreeBSD ports tree already contains the following components, and are up to
 date:
 
-* elementary-calendar
-* elementary-code
-* elementary-photos
-* elementary-videos
-* granite
-* plank
+* elementary-calendar [GitHub](https://github.com/elementary/calendar)
+* elementary-code [GitHub](https://github.com/elementary/code)
+* elementary-photos [GitHub](https://github.com/elementary/photos)
+* elementary-videos [GitHub](https://github.com/elementary/videos)
+* granite [GitHub](https://github.com/elementary/granite)
+* plank [Launchpad](https://launchpad.net/plank)
 
 This project adds the following ports, but have not been extensively tested,
 may not have the right dependencies yet, and are not yet submitted to the ports
