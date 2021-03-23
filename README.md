@@ -22,6 +22,7 @@ This project adds the following ports, but have not been extensively tested,
 may not have the right dependencies yet, and are not yet submitted to the ports
 tree:
 
+* elementary-calculator [GitHub](https://github.com/elementary/calculator)
 * elementary-files [GitHub](https://github.com/elementary/files)
 * libcloudproviders [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
@@ -31,7 +32,6 @@ Calling anything a "future plan" is premature, as this is just an exercise to
 see how far things can go. The logical next steps are as follows:
 
 ## Port remaining application components
-* elementary-calculator [GitHub](https://github.com/elementary/calculator)
 * elementary-dock (replaces plank) [GitHub](https://github.com/elementary/dock)
 * elementary-mail [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot [GitHub](https://github.com/elementary/screenshot)
