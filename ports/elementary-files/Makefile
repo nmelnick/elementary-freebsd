@@ -4,8 +4,7 @@ PORTNAME=		elementary-files
 DISTVERSION=		4.5.0
 CATEGORIES=		x11-wm
 MASTER_SITES=		https://github.com/
-MASTER_SITE_SUBDIR=	elementary/files/archive/refs/tags/
-DISTFILES=		${PORTVERSION}.tar.gz
+DISTFILES=		elementary/files/archive/refs/tags/${PORTVERSION}.tar.gz
 WRKSRC=			${WRKDIR}/files-${PORTVERSION}
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
