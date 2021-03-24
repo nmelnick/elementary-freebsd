@@ -22,11 +22,11 @@ This project adds the following ports, but have not been extensively tested,
 may not have the right dependencies yet, and are not yet submitted to the ports
 tree:
 
-* elementary-calculator [GitHub](https://github.com/elementary/calculator)
-* elementary-files [GitHub](https://github.com/elementary/files)
-* elementary-screenshot [GitHub](https://github.com/elementary/screenshot)
-* elementary-terminal [GitHub](https://github.com/elementary/terminal)
-* libcloudproviders [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
+* elementary-calculator (math) [GitHub](https://github.com/elementary/calculator)
+* elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
+* elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
+* elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
+* libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
 ## Future Plans
 
