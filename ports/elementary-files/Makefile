@@ -31,6 +31,7 @@ USE_GNOME=	glib20 gtk30 pango cairo gdkpixbuf2
 USE_LDCONFIG=	yes
 INSTALLS_ICONS=	yes
 USE_XORG=	x11
+GLIB_SCHEMAS=   io.elementary.files.gschema.xml
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
