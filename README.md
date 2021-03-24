@@ -36,7 +36,7 @@ see how far things can go. The logical next steps are as follows:
 ## Port remaining application components
 * elementary-dock (replaces plank) [GitHub](https://github.com/elementary/dock)
 * elementary-mail [GitHub](https://github.com/elementary/mail)
-* elementary-tasks [GitHub](https://github.com/elementary/tasks)
+* elementary-tasks (wip) [GitHub](https://github.com/elementary/tasks)
 
 ## Port remaining environment components
 
