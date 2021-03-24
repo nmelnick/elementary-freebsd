@@ -24,6 +24,7 @@ tree:
 
 * elementary-calculator [GitHub](https://github.com/elementary/calculator)
 * elementary-files [GitHub](https://github.com/elementary/files)
+* elementary-terminal [GitHub](https://github.com/elementary/terminal)
 * libcloudproviders [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
 ## Future Plans
@@ -36,7 +37,6 @@ see how far things can go. The logical next steps are as follows:
 * elementary-mail [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot [GitHub](https://github.com/elementary/screenshot)
 * elementary-tasks [GitHub](https://github.com/elementary/tasks)
-* elementary-terminal [GitHub](https://github.com/elementary/terminal)
 
 ## Port remaining environment components
 
