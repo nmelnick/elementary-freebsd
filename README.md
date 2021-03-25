@@ -16,13 +16,13 @@ date:
 * elementary-photos [GitHub](https://github.com/elementary/photos)
 * elementary-videos [GitHub](https://github.com/elementary/videos)
 * granite [GitHub](https://github.com/elementary/granite)
+* pantheon-calculator [GitHub](https://github.com/elementary/calculator)
 * plank [Launchpad](https://launchpad.net/plank)
 
 This project adds the following ports, but have not been extensively tested,
 may not have the right dependencies yet, and are not yet submitted to the ports
 tree:
 
-* elementary-calculator (math) [GitHub](https://github.com/elementary/calculator)
 * elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
