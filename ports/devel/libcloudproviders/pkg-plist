@@ -6,6 +6,7 @@ include/cloudproviders/cloudprovidersprovider.h
 include/cloudproviders/cloudprovidersproviderexporter.h
 include/cloudproviders/enums.h
 lib/girepository-1.0/CloudProviders-0.3.0.typelib
+lib/libcloudproviders.so
 lib/libcloudproviders.so.0
 lib/libcloudproviders.so.0.3.0
 libdata/pkgconfig/cloudproviders.pc
