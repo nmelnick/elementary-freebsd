@@ -15,7 +15,7 @@ date:
 * elementary-code [GitHub](https://github.com/elementary/code)
 * elementary-photos [GitHub](https://github.com/elementary/photos)
 * elementary-videos [GitHub](https://github.com/elementary/videos)
-* granite [GitHub](https://github.com/elementary/granite)
+* granite* [GitHub](https://github.com/elementary/granite)
 * pantheon-calculator [GitHub](https://github.com/elementary/calculator)
 * plank [Launchpad](https://launchpad.net/plank)
 
@@ -26,7 +26,11 @@ tree:
 * elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
+* granite* (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
+
+Granite exists in both, as current elementary development work is targeting
+libgranite 6.0.0. The granite port is literally just a version change.
 
 ## Future Plans
 
