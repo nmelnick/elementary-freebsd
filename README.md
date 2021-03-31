@@ -27,6 +27,7 @@ tree:
 * elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
+* elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
 * granite* (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
