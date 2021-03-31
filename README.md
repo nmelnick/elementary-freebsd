@@ -24,6 +24,7 @@ tree:
 
 * elementary-dock (replaces plank) (x11-wm) [GitHub](https://github.com/elementary/dock)
 * elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
+* elementary-gala (x11-wm) [GitHub](https://github.com/elementary/gala)
 * elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
