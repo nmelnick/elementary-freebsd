@@ -17,12 +17,12 @@ date:
 * elementary-videos [GitHub](https://github.com/elementary/videos)
 * granite* [GitHub](https://github.com/elementary/granite)
 * pantheon-calculator [GitHub](https://github.com/elementary/calculator)
-* plank [Launchpad](https://launchpad.net/plank)
 
 This project adds the following ports, but have not been extensively tested,
 may not have the right dependencies yet, and are not yet submitted to the ports
 tree:
 
+* elementary-dock (replaces plank) (x11-wm) [GitHub](https://github.com/elementary/dock)
 * elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
 * elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
@@ -50,7 +50,6 @@ Calling anything a "future plan" is premature, as this is just an exercise to
 see how far things can go. The logical next steps are as follows:
 
 ## Port remaining application components
-* elementary-dock (replaces plank) [GitHub](https://github.com/elementary/dock)
 * elementary-tasks (wip) [GitHub](https://github.com/elementary/tasks)
 
 ## Port remaining environment components
