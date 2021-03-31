@@ -24,6 +24,7 @@ may not have the right dependencies yet, and are not yet submitted to the ports
 tree:
 
 * elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
+* elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * granite* (x11-toolkits) [GitHub](https://github.com/elementary/granite)
@@ -32,6 +33,17 @@ tree:
 Granite exists in both, as current elementary development work is targeting
 libgranite 6.0.0. The granite port is literally just a version change.
 
+## Installation
+
+I'm holding off on installation documentation until this is a more complete
+package. If you're itching to get started:
+
+* Symlink /usr/local/bin/python3.7 to /usr/local/bin/python3
+* Install each port by going into each directory and performing a
+  `sudo make install clean`
+* You may now run applications from your current DE of choice. I started with
+  gnome3, I am now using xfce4 as a base.
+
 ## Future Plans
 
 Calling anything a "future plan" is premature, as this is just an exercise to
@@ -39,7 +51,6 @@ see how far things can go. The logical next steps are as follows:
 
 ## Port remaining application components
 * elementary-dock (replaces plank) [GitHub](https://github.com/elementary/dock)
-* elementary-mail [GitHub](https://github.com/elementary/mail)
 * elementary-tasks (wip) [GitHub](https://github.com/elementary/tasks)
 
 ## Port remaining environment components
