@@ -1,0 +1,13 @@
+bin/io.elementary.wingpanel
+etc/xdg/autostart/io.elementary.wingpanel.desktop
+include/wingpanel/wingpanel.h
+lib/gala/plugins/libwingpanel-interface.so
+lib/libwingpanel.so
+lib/libwingpanel.so.3
+lib/libwingpanel.so.3.0.0
+libdata/pkgconfig/wingpanel.pc
+share/applications/io.elementary.wingpanel.desktop
+share/icons/hicolor/scalable/apps/io.elementary.wingpanel.svg
+share/metainfo/io.elementary.wingpanel.appdata.xml
+share/vala/vapi/wingpanel.deps
+share/vala/vapi/wingpanel.vapi

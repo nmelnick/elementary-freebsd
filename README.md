@@ -29,6 +29,7 @@ tree:
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
+* elementary-wingpanel (x11-wm) [GitHub](https://github.com/elementary/wingpanel)
 * granite* (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
