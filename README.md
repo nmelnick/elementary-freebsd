@@ -4,7 +4,7 @@ The elementary-freebsd project is a work-in-progress with a goal of providing an
 elementary OS-like experience on top of FreeBSD. The initial development work
 revolves around getting elementary OS components into the FreeBSD ports tree.
 
-Current development work is being done on FreeBSD 13.0-RC4.
+Current development work is being done on FreeBSD 12.2-RELEASE.
 
 ## Progress
 
