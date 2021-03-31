@@ -30,11 +30,30 @@ tree:
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
 * elementary-wingpanel (x11-wm) [GitHub](https://github.com/elementary/wingpanel)
-* granite* (x11-toolkits) [GitHub](https://github.com/elementary/granite)
+* granite (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
 Granite exists in both, as current elementary development work is targeting
 libgranite 6.0.0. The granite port is literally just a version change.
+
+## Notes
+
+The granite port is a version bump of the existing port.
+
+The elementary-dock port is a slightly altered version of the existing plank
+port.
+
+Gala is currently non-functional, and exists as libraries for other components
+to link to.
+
+Creating accelerators seems to be a problem, and I haven't hit that part of my
+list yet. Most of these applications will segfault when creating the key
+accelerators. It's been patched in some places, not others, but the patch is
+literally removing the functionality. The real solution is finding the issue.
+
+Mail relies on online-accounts functionality, which is not currently
+functional. Creating accounts in Evolution will allow Mail to access them. Mail
+will crash.
 
 ## Installation
 
