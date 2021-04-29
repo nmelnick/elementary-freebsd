@@ -29,7 +29,7 @@ GLIB_SCHEMAS=	net.launchpad.plank.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	dock
-GH_TAGNAME=	9150dd81bc3741d76eefee54993d7fc89d8d0d03
+GH_TAGNAME=	a74ee61c782fc6cc9a13164848912ef7b863c703
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
