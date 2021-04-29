@@ -32,7 +32,7 @@ GLIB_SCHEMAS=	io.elementary.mail.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	mail
-GH_TAGNAME=	373f8b28ebc1a322ae3f8947d309cfe34e21f071
+GH_TAGNAME=	3170aca50feab3592d8467c375ab1772791f791d
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
