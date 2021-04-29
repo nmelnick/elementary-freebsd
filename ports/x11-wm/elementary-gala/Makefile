@@ -30,7 +30,7 @@ GLIB_SCHEMAS=	org.pantheon.desktop.gala.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	gala
-GH_TAGNAME=	282ee282f898e63c2489c83f7e79c478e20b4e58
+GH_TAGNAME=	3d3a69a594a2edc4dea528f52a77b4bb64738d36
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

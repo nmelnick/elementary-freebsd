@@ -4,7 +4,6 @@ etc/xdg/autostart/gala-daemon.desktop
 include/gala/gala.h
 lib/gala/plugins/libgala-maskcorners.so
 lib/gala/plugins/libgala-pip.so
-lib/gala/plugins/libgala-zoom.so
 lib/libgala.so
 lib/libgala.so.0
 lib/libgala.so.0.0.0
