@@ -28,6 +28,7 @@ tree:
 * elementary-greeter (x11) [GitHub](https://github.com/elementary/greeter)
 * elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
+* elementary-session-settings (x11) [GitHub](https://github.com/elementary/session-settings)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
 * elementary-wingpanel (x11-wm) [GitHub](https://github.com/elementary/wingpanel)
