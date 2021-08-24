@@ -1,8 +1,7 @@
 # Created by: Olivier Duchateau
-# $FreeBSD: head/x11-toolkits/granite/Makefile 550400 2020-09-28 05:05:24Z tobik $
 
 PORTNAME=	granite
-DISTVERSION=	6.0.0
+DISTVERSION=	6.1.0
 CATEGORIES=	x11-toolkits
 
 MAINTAINER=	desktop@FreeBSD.org

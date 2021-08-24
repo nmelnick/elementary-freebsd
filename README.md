@@ -4,7 +4,7 @@ The elementary-freebsd project is a work-in-progress with a goal of providing an
 elementary OS-like experience on top of FreeBSD. The initial development work
 revolves around getting elementary OS components into the FreeBSD ports tree.
 
-Current development work is being done on FreeBSD 12.2-RELEASE.
+Current development work is being done on FreeBSD 13.0-RELEASE.
 
 ## Progress
 
@@ -34,7 +34,7 @@ tree:
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
 Granite exists in both, as current elementary development work is targeting
-libgranite 6.0.0. The granite port is literally just a version change.
+libgranite 6.1.0. The granite port is literally just a version change.
 
 ## Notes
 
@@ -60,7 +60,6 @@ will crash.
 I'm holding off on installation documentation until this is a more complete
 package. If you're itching to get started:
 
-* Symlink /usr/local/bin/python3.7 to /usr/local/bin/python3
 * Install each port by going into each directory and performing a
   `sudo make install clean`
 * You may now run applications from your current DE of choice. I started with
