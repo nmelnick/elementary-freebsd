@@ -1,7 +1,5 @@
-# $FreeBSD$
-
 PORTNAME=		libcloudproviders
-DISTVERSION=		0.3.0
+DISTVERSION=		0.3.1
 CATEGORIES=		devel
 MASTER_SITES=		https://gitlab.gnome.org/World/${PORTNAME}/-/archive/${PORTVERSION}/
 
@@ -16,5 +14,8 @@ USE_GNOME=	glib20
 USE_LDCONFIG=	yes
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
+
+PLIST_SUB=      DIST_VERSION=${DISTVERSION}
+PLIST_SUB+=     LIBRARY_VERSION=0.3
 
 .include <bsd.port.mk>
