@@ -1,7 +1,5 @@
-# $FreeBSD$
-
 PORTNAME=	screenshot
-DISTVERSION=	1.7.1
+DISTVERSION=	6.0.0
 CATEGORIES=	x11
 PKGNAMEPREFIX=	elementary-
 
@@ -24,7 +22,7 @@ USE_GNOME=	glib20 gtk30 gdkpixbuf2 cairo
 USE_LDCONFIG=	yes
 INSTALLS_ICONS=	yes
 USE_XORG=	x11
-GLIB_SCHEMAS=	io.elementary.screenshot-tool.gschema.xml
+GLIB_SCHEMAS=	io.elementary.screenshot.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
