@@ -60,6 +60,7 @@ will crash.
 I'm holding off on installation documentation until this is a more complete
 package. If you're itching to get started:
 
+* Make sure you have the latest lang/vala port installed
 * Install each port by going into each directory and performing a
   `sudo make install clean`
 * You may now run applications from your current DE of choice. I started with
