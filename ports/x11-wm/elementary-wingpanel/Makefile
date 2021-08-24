@@ -1,5 +1,3 @@
-# $FreeBSD$
-
 PORTNAME=	wingpanel
 DISTVERSION=	3.0.0
 CATEGORIES=	x11-wm
@@ -29,7 +27,6 @@ GLIB_SCHEMAS=	io.elementary.desktop.wingpanel.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	wingpanel
-GH_TAGNAME=	6437f0dda64201ac25d5a3a284ed774cf6591ce6
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
