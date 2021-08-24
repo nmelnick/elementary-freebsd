@@ -1,7 +1,5 @@
-# $FreeBSD$
-
 PORTNAME=	mail
-DISTVERSION=	2.0.0
+DISTVERSION=	6.1.0
 CATEGORIES=	mail
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
@@ -32,7 +30,6 @@ GLIB_SCHEMAS=	io.elementary.mail.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	mail
-GH_TAGNAME=	3170aca50feab3592d8467c375ab1772791f791d
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
