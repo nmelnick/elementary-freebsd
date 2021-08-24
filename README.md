@@ -25,6 +25,7 @@ tree:
 * elementary-dock (replaces plank) (x11-wm) [GitHub](https://github.com/elementary/dock)
 * elementary-files (x11-wm) [GitHub](https://github.com/elementary/files)
 * elementary-gala (x11-wm) [GitHub](https://github.com/elementary/gala)
+* elementary-greeter (x11) [GitHub](https://github.com/elementary/greeter)
 * elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
@@ -82,7 +83,6 @@ modes of operation. Each of the below will probably require more work than
 getting a build to run. Some may not be appropriate for the ports tree, like
 initial-setup.
   * elementary-camera [GitHub](https://github.com/elementary/camera)
-  * elementary-greeter [GitHub](https://github.com/elementary/greeter)
   * elementary-initial-setup [GitHub](https://github.com/elementary/initial-setup)
   * elementary-notifications [GitHub](https://github.com/elementary/notifications)
   * elementary-onboarding [GitHub](https://github.com/elementary/onboarding)
