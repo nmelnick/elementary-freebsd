@@ -1,7 +1,5 @@
-# $FreeBSD$
-
 PORTNAME=	terminal
-DISTVERSION=	5.5.2
+DISTVERSION=	6.0.0
 CATEGORIES=	x11
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

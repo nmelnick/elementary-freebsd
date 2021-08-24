@@ -54,8 +54,8 @@ share/locale/ff/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/fi/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/fj/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/fo/LC_MESSAGES/io.elementary.terminal.mo
-share/locale/fr_CA/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/fr/LC_MESSAGES/io.elementary.terminal.mo
+share/locale/fr_CA/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/fy/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ga/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/gd/LC_MESSAGES/io.elementary.terminal.mo
@@ -114,7 +114,6 @@ share/locale/mi/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/mk/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ml/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/mn/LC_MESSAGES/io.elementary.terminal.mo
-share/locale/mo/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/mr/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ms/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/mt/LC_MESSAGES/io.elementary.terminal.mo
@@ -139,12 +138,13 @@ share/locale/pa/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/pi/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/pl/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ps/LC_MESSAGES/io.elementary.terminal.mo
-share/locale/pt_BR/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/pt/LC_MESSAGES/io.elementary.terminal.mo
+share/locale/pt_BR/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/qu/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/rm/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/rn/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ro/LC_MESSAGES/io.elementary.terminal.mo
+share/locale/ro_MD/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ru/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/rue/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/rw/LC_MESSAGES/io.elementary.terminal.mo
@@ -175,6 +175,7 @@ share/locale/th/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/ti/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/tk/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/tl/LC_MESSAGES/io.elementary.terminal.mo
+share/locale/tlh/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/tn/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/to/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/tr/LC_MESSAGES/io.elementary.terminal.mo
@@ -195,9 +196,9 @@ share/locale/xh/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/yi/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/yo/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/za/LC_MESSAGES/io.elementary.terminal.mo
+share/locale/zh/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/zh_CN/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/zh_HK/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/zh_TW/LC_MESSAGES/io.elementary.terminal.mo
-share/locale/zh/LC_MESSAGES/io.elementary.terminal.mo
 share/locale/zu/LC_MESSAGES/io.elementary.terminal.mo
 share/metainfo/io.elementary.terminal.appdata.xml
