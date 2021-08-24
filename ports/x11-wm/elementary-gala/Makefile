@@ -1,7 +1,5 @@
-# $FreeBSD$
-
 PORTNAME=	gala
-PORTVERSION=	3.3.2
+PORTVERSION=	6.0.1
 CATEGORIES=	x11-wm
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
@@ -14,7 +12,9 @@ LICENSE_FILE=	${WRKSRC}/COPYING
 
 BUILD_DEPENDS=	valac:lang/vala
 LIB_DEPENDS=	libvala-0.48.so:lang/vala \
+		libcanberra.so:audio/libcanberra \
 		libgee-0.8.so:devel/libgee \
+		libgexiv2.so:graphics/gexiv2 \
 		libgranite.so:x11-toolkits/granite \
 		libgraphene-1.0.so:graphics/graphene \
 		libmutter-6.so:x11-wm/mutter \
@@ -30,7 +30,6 @@ GLIB_SCHEMAS=	org.pantheon.desktop.gala.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	gala
-GH_TAGNAME=	3d3a69a594a2edc4dea528f52a77b4bb64738d36
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
