@@ -1,5 +1,3 @@
-# $FreeBSD$
-
 PORTNAME=	wallpapers
 DISTVERSION=	6.0.0
 CATEGORIES=	x11-themes
@@ -16,7 +14,6 @@ LICENSE_FILE=	${WRKSRC}/LICENSE.md
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	wallpapers
-GH_TAGNAME=	bb043b081b3a7f04c2ee98c0e2829dd60fc531cd
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
