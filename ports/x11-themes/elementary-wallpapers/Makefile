@@ -17,4 +17,7 @@ GH_PROJECT=	wallpapers
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
+post-install:
+	@${RLN} ${STAGEDIR}/usr/local/share/backgrounds/odin.jpg ${STAGEDIR}/usr/local/share/backgrounds/elementaryos-default
+
 .include <bsd.port.mk>
