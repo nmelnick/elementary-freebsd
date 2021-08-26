@@ -1,0 +1,10 @@
+--- src/meson.build.orig	2021-08-26 01:19:33 UTC
++++ src/meson.build
+@@ -76,7 +76,6 @@ dependencies = [
+     zeitgeist_dep,
+     libgnome_menu_dep,
+     libsoup_dep,
+-    appstream_dep,
+     plank_dep,
+     wingpanel_dep,
+     libhandy_dep,
