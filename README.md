@@ -11,6 +11,7 @@ Current development work is being done on FreeBSD 13.0-RELEASE.
 The FreeBSD ports tree already contains the following components, and are up to
 date:
 
+* contractor [GitHub](https://github.com/elementary/contractor)
 * elementary-calendar [GitHub](https://github.com/elementary/calendar)
 * elementary-code [GitHub](https://github.com/elementary/code)
 * elementary-photos [GitHub](https://github.com/elementary/photos)
