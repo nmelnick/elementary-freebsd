@@ -33,4 +33,6 @@ GH_PROJECT=	gala
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
+WITH_DEBUG=	yes
+
 .include <bsd.port.mk>
