@@ -33,6 +33,9 @@ tree:
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
 * elementary-wingpanel (x11-wm) [GitHub](https://github.com/elementary/wingpanel)
+  * applications-menu (x11-wm) [GitHub](https://github.com/elementary/applications-menu)
+  * wingpanel-indicator-a11y (x11-wm) [GitHub](https://github.com/elementary/wingpanel-indicator-a11y
+  * wingpanel-indicator-datetime (x11-wm) [GitHub](https://github.com/elementary/wingpanel-indicator-datetime)
 * granite (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
@@ -91,14 +94,9 @@ initial-setup.
   * elementary-settings-daemon [GitHub](https://github.com/elementary/settings-daemon)
   * elementary-sound-theme [GitHub](https://github.com/elementary/sound-theme)
   * elementary-wingpanel [GitHub](https://github.com/elementary/wingpanel)
-    * applications-menu [GitHub](https://github.com/elementary/applications-menu)
-    * wingpanel-indicator-a11y [GitHub](https://github.com/elementary/wingpanel-indicator-a11y)
     * wingpanel-indicator-bluetooth [GitHub](https://github.com/elementary/wingpanel-indicator-bluetooth)
-    * wingpanel-indicator-datetime [GitHub](https://github.com/elementary/wingpanel-indicator-datetime)
     * wingpanel-indicator-keyboard [GitHub](https://github.com/elementary/wingpanel-indicator-keyboard)
     * wingpanel-indicator-music [GitHub](https://github.com/elementary/wingpanel-indicator-music)
-    * wingpanel-indicator-network [GitHub](https://github.com/elementary/wingpanel-indicator-network)
-      * elementary-capnet-assist [GitHub](https://github.com/elementary/capnet-assist)
     * wingpanel-indicator-nightlight [GitHub](https://github.com/elementary/wingpanel-indicator-nightlight)
     * wingpanel-indicator-notifications [GitHub](https://github.com/elementary/wingpanel-indicator-notifications)
     * wingpanel-indicator-power [GitHub](https://github.com/elementary/wingpanel-indicator-power)
@@ -115,5 +113,6 @@ initial-setup.
 * Elementary AppCenter is designed for Debian packages and Flatpaks, so
   probably won't be useful or worth it. It may be something more modular than I
   am expecting, so this could change categories some day.
+* wingpanel-indicator-network relies on NetworkManager, which does not exist
 * Porting feedback would not be fair, the elementary team is absolutely not
   going to care about bugs on FreeBSD.
