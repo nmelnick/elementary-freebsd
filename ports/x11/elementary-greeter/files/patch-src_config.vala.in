@@ -1,0 +1,9 @@
+--- src/config.vala.in.orig	2021-08-26 17:28:31 UTC
++++ src/config.vala.in
+@@ -1,5 +1,5 @@
+ namespace Constants {
+-    public const string CONF_DIR = "@CONF_DIR@";
++    public const string CONF_DIR = "/usr/local/@CONF_DIR@";
+     public const string GETTEXT_PACKAGE = "@GETTEXT_PACKAGE@";
+     public const string GSD_DIR = "@GSD_DIR@";
+     public const string VERSION = "@VERSION@";
