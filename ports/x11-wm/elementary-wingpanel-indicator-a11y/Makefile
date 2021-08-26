@@ -21,6 +21,7 @@ USES=		gettext gnome localbase meson pkgconfig \
 USE_GNOME=	glib20 gtk30 pango cairo gdkpixbuf2
 USE_LDCONFIG=	yes
 USE_XORG=	x11
+GLIB_SCHEMAS=	io.elementary.desktop.wingpanel.a11y.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
