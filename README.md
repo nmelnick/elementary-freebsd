@@ -33,6 +33,7 @@ tree:
 * elementary-onboarding (deskutils) [GitHub](https://github.com/elementary/onboarding)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-session-settings (x11) [GitHub](https://github.com/elementary/session-settings)
+* elementary-settings-daemon [GitHub](https://github.com/elementary/settings-daemon)
 * elementary-sound-theme (x11-themes) [GitHub](https://github.com/elementary/sound-theme)
 * elementary-switchboard (sysutils) [GitHub](https://github.com/elementary/switchboard)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
@@ -95,7 +96,6 @@ getting a build to run. Some may not be appropriate for the ports tree, like
 initial-setup.
   * elementary-camera [GitHub](https://github.com/elementary/camera)
   * elementary-initial-setup [GitHub](https://github.com/elementary/initial-setup)
-  * elementary-settings-daemon [GitHub](https://github.com/elementary/settings-daemon)
   * elementary-wingpanel [GitHub](https://github.com/elementary/wingpanel)
     * wingpanel-indicator-bluetooth [GitHub](https://github.com/elementary/wingpanel-indicator-bluetooth)
     * wingpanel-indicator-keyboard [GitHub](https://github.com/elementary/wingpanel-indicator-keyboard)
