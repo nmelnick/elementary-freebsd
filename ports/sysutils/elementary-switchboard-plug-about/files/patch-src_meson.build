@@ -1,0 +1,33 @@
+--- src/meson.build.orig	2021-08-26 02:10:03 UTC
++++ src/meson.build
+@@ -1,13 +1,9 @@
+ plug_files = files(
+     'Plug.vala',
+-    'Interfaces/FirmwareClient.vala',
+     'Interfaces/LoginManager.vala',
+     'Utils/ARMPartDecoder.vala',
+-    'Views/FirmwareReleaseView.vala',
+-    'Views/FirmwareView.vala',
+     'Views/HardwareView.vala',
+-    'Views/OperatingSystemView.vala',
+-    'Widgets/FirmwareUpdateRow.vala'
++    'Views/OperatingSystemView.vala'
+ )
+ 
+ switchboard_dep = dependency('switchboard-2.0')
+@@ -28,7 +24,6 @@ shared_module(
+     config_vala,
+     css_gresource,
+     dependencies: [
+-        dependency('fwupd'),
+         dependency('glib-2.0', version: '>=2.64.0'),
+         dependency('gio-2.0'),
+         dependency('gobject-2.0'),
+@@ -36,7 +31,6 @@ shared_module(
+         dependency('gtk+-3.0'),
+         dependency('libgtop-2.0'),
+         dependency('libhandy-1'),
+-        dependency ('appstream', version: '>=0.12.10'),
+         meson.get_compiler('vala').find_library('posix'),
+         switchboard_dep
+     ],
