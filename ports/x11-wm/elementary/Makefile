@@ -40,9 +40,11 @@ RUN_DEPENDS=	\
 		io.elementary.videos:multimedia/elementary-videos \
 		io.elementary.wingpanel:x11-wm/elementary-wingpanel \
 		io.elementary.calendar:math/pantheon-calculator \
+		${PREFIX}/share/glib-2.0/schemas/default-settings.gschema.override:x11-wm/elementary-default-settings \
 		${PREFIX}/share/metainfo/io.elementary.wallpapers.appdata.xml:x11-themes/elementary-wallpapers \
 		${PREFIX}/share/metainfo/io.elementary.icons.appdata.xml:x11-themes/elementary-icons \
 		${PREFIX}/share/xsessions/pantheon.desktop:x11-wm/elementary-session-settings \
+		${PREFIX/share/themes/io.elementary.stylesheet.strawberry/plank/dock.theme:x11-themes/elementary-stylesheet \
 		${PREFIX}/share/sounds/elementary/index.theme:x11-themes/elementary-sound-theme
 
 USES=		metaport
