@@ -1,0 +1,11 @@
+--- data/enable-zsh-completion-notifications.orig	2021-08-26 04:13:46 UTC
++++ data/enable-zsh-completion-notifications
+@@ -1,7 +1,7 @@
+ # This file should be sourced  from /etc/zshrc or $ZDOTDIR/.zshrc in order to
+ # enable process completion notifications in Pantheon Terminal. 
+ # Like this:
+-#builtin . /usr/share/io.elementary.terminal/enable-zsh-completion-notifications || builtin true
++#builtin . /usr/local/share/io.elementary.terminal/enable-zsh-completion-notifications || builtin true
+ 
+ # If you come up with a way to inject this without modifying those files,
+ # please let me know at <sergey@elementaryos.org>
