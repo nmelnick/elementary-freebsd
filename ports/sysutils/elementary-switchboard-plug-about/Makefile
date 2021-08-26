@@ -10,6 +10,7 @@ COMMENT=	About plug for System Settings
 LICENSE=	GPLv3
 LICENSE_FILE=	${WRKSRC}/COPYING
 
+RUN_DEPENDS=    consolekit2>0:sysutils/consolekit2
 BUILD_DEPENDS=	valac:lang/vala
 LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgee-0.8.so:devel/libgee \

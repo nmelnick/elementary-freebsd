@@ -9,6 +9,7 @@ COMMENT=	Wingpanel Date & Time Indicator
 LICENSE=	GPLv3
 LICENSE_FILE=	${WRKSRC}/COPYING
 
+RUN_DEPENDS=	consolekit2>0:sysutils/consolekit2
 BUILD_DEPENDS=	valac:lang/vala
 LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgala.so:x11-wm/elementary-gala \

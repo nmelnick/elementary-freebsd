@@ -10,6 +10,7 @@ COMMENT=	LightDM Login and Lock Screen greeter for elementary OS
 LICENSE=	GPLv3
 LICENSE_FILE=	${WRKSRC}/LICENSE
 
+RUN_DEPENDS=	consolekit2>0:sysutils/consolekit2
 BUILD_DEPENDS=	valac:lang/vala
 LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libaccountsservice.so:sysutils/accountsservice \
