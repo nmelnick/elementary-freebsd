@@ -60,14 +60,8 @@ port.
 Gala is currently non-functional, and exists as libraries for other components
 to link to.
 
-Creating accelerators seems to be a problem, and I haven't hit that part of my
-list yet. Most of these applications will segfault when creating the key
-accelerators. It's been patched in some places, not others, but the patch is
-literally removing the functionality. The real solution is finding the issue.
-
-Mail relies on online-accounts functionality, which is not currently
-functional. Creating accounts in Evolution will allow Mail to access them. Mail
-will crash.
+The Online Accounts functionality enables other ports in FreeBSD, like
+elementary-calendar, to work.
 
 ## Installation
 
