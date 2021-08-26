@@ -36,6 +36,7 @@ tree:
 * elementary-settings-daemon [GitHub](https://github.com/elementary/settings-daemon)
 * elementary-sound-theme (x11-themes) [GitHub](https://github.com/elementary/sound-theme)
 * elementary-switchboard (sysutils) [GitHub](https://github.com/elementary/switchboard)
+* elementary-tasks (deskutils) [GitHub](https://github.com/elementary/tasks)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
 * elementary-wingpanel (x11-wm) [GitHub](https://github.com/elementary/wingpanel)
@@ -74,6 +75,9 @@ I'm holding off on installation documentation until this is a more complete
 package. If you're itching to get started:
 
 * Make sure you have the latest lang/vala port installed
+* Run link.sh to link each project into the ports tree, or copy the contents
+  into your ports tree
+* Install the metaport in x11-wm/elementary OR
 * Install each port by going into each directory and performing a
   `sudo make install clean`
 * You may now run applications from your current DE of choice. I started with
@@ -83,9 +87,6 @@ package. If you're itching to get started:
 
 Calling anything a "future plan" is premature, as this is just an exercise to
 see how far things can go. The logical next steps are as follows:
-
-## Port remaining application components
-* elementary-tasks (wip) [GitHub](https://github.com/elementary/tasks)
 
 ## Port remaining environment components
 
