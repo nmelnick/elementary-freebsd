@@ -29,6 +29,7 @@ tree:
 * elementary-mail (mail) [GitHub](https://github.com/elementary/mail)
 * elementary-screenshot (x11) [GitHub](https://github.com/elementary/screenshot)
 * elementary-session-settings (x11) [GitHub](https://github.com/elementary/session-settings)
+* elementary-switchboard [GitHub](https://github.com/elementary/switchboard)
 * elementary-terminal (x11) [GitHub](https://github.com/elementary/terminal)
 * elementary-wallpapers (x11-themes) [GitHub](https://github.com/elementary/wallpapers)
 * elementary-wingpanel (x11-wm) [GitHub](https://github.com/elementary/wingpanel)
@@ -89,8 +90,6 @@ initial-setup.
   * elementary-onboarding [GitHub](https://github.com/elementary/onboarding)
   * elementary-settings-daemon [GitHub](https://github.com/elementary/settings-daemon)
   * elementary-sound-theme [GitHub](https://github.com/elementary/sound-theme)
-  * elementary-switchboard [GitHub](https://github.com/elementary/switchboard)
-    and all or a portion of the associated modules
   * elementary-wingpanel [GitHub](https://github.com/elementary/wingpanel)
     * applications-menu [GitHub](https://github.com/elementary/applications-menu)
     * wingpanel-indicator-a11y [GitHub](https://github.com/elementary/wingpanel-indicator-a11y)
