@@ -18,6 +18,7 @@ LIB_DEPENDS=	\
 		libdatetime.so:x11-wm/elementary-wingpanel-indicator-datetime \
 		libnotifications.so:x11-wm/elementary-wingpanel-indicator-notifications \
 		libpower.so:x11-wm/elementary-wingpanel-indicator-power \
+		libsession.so:x11-wm/elementary-wingpanel-indicator-session \
 		libsound.so:x11-wm/elementary-wingpanel-indicator-sound \
 		libgranite.so:x11-toolkits/granite \
 		libcloudproviders.so:devel/libcloudproviders
