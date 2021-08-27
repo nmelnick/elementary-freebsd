@@ -13,6 +13,7 @@ LIB_DEPENDS=	\
 		libnotifications.so:sysutils/elementary-switchboard-plug-notifications \
 		libonline-accounts.so:sysutils/elementary-switchboard-plug-onlineaccounts \
 		libpantheon-desktop.so:sysutils/elementary-switchboard-plug-pantheon-shell \
+		libuseraccounts.so:sysutils/elementary-switchboard-plug-useraccounts \
 		libsound.so:sysutils/elementary-switchboard-plug-sound \
 		liba11y.so:x11-wm/elementary-wingpanel-indicator-a11y \
 		libdatetime.so:x11-wm/elementary-wingpanel-indicator-datetime \
