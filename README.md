@@ -43,6 +43,9 @@ tree:
   * applications-menu (x11-wm) [GitHub](https://github.com/elementary/applications-menu)
   * wingpanel-indicator-a11y (x11-wm) [GitHub](https://github.com/elementary/wingpanel-indicator-a11y
   * wingpanel-indicator-datetime (x11-wm) [GitHub](https://github.com/elementary/wingpanel-indicator-datetime)
+  * wingpanel-indicator-notifications [GitHub](https://github.com/elementary/wingpanel-indicator-notifications)
+  * wingpanel-indicator-power [GitHub](https://github.com/elementary/wingpanel-indicator-power)
+  * wingpanel-indicator-session [GitHub](https://github.com/elementary/wingpanel-indicator-session)
   * wingpanel-indicator-sound [GitHub](https://github.com/elementary/wingpanel-indicator-sound)
 * granite (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
@@ -59,6 +62,9 @@ port.
 
 Gala is currently non-functional, and exists as libraries for other components
 to link to.
+
+User Accounts functionality in both the wingpanel session indicator and the
+user accounts settings panel is non-functional.
 
 The Online Accounts functionality enables other ports in FreeBSD, like
 elementary-calendar, to work.
@@ -96,12 +102,8 @@ initial-setup.
     * wingpanel-indicator-keyboard [GitHub](https://github.com/elementary/wingpanel-indicator-keyboard)
     * wingpanel-indicator-music [GitHub](https://github.com/elementary/wingpanel-indicator-music)
     * wingpanel-indicator-nightlight [GitHub](https://github.com/elementary/wingpanel-indicator-nightlight)
-    * wingpanel-indicator-notifications [GitHub](https://github.com/elementary/wingpanel-indicator-notifications)
-    * wingpanel-indicator-power [GitHub](https://github.com/elementary/wingpanel-indicator-power)
     * wingpanel-indicator-privacy [GitHub](https://github.com/elementary/wingpanel-indicator-privacy)
-    * wingpanel-indicator-session [GitHub](https://github.com/elementary/wingpanel-indicator-session)
-  * gala [GitHub](https://github.com/elementary/gala)
-    * elementary-shortcut-overlay [GitHub](https://github.com/elementary/shortcut-overlay)
+  * elementary-shortcut-overlay [GitHub](https://github.com/elementary/shortcut-overlay)
   * pantheon-agent-geoclue2 [GitHub](https://github.com/elementary/pantheon-agent-geoclue2)
   * pantheon-agent-polkit [GitHub](https://github.com/elementary/pantheon-agent-polkit)
 
