@@ -17,6 +17,7 @@ LIB_DEPENDS=	\
 		liba11y.so:x11-wm/elementary-wingpanel-indicator-a11y \
 		libdatetime.so:x11-wm/elementary-wingpanel-indicator-datetime \
 		libnotifications.so:x11-wm/elementary-wingpanel-indicator-notifications \
+		libpower.so:x11-wm/elementary-wingpanel-indicator-power \
 		libsound.so:x11-wm/elementary-wingpanel-indicator-sound \
 		libgranite.so:x11-toolkits/granite \
 		libcloudproviders.so:devel/libcloudproviders
@@ -44,7 +45,7 @@ RUN_DEPENDS=	\
 		${PREFIX}/share/metainfo/io.elementary.wallpapers.appdata.xml:x11-themes/elementary-wallpapers \
 		${PREFIX}/share/metainfo/io.elementary.icons.appdata.xml:x11-themes/elementary-icons \
 		${PREFIX}/share/xsessions/pantheon.desktop:x11-wm/elementary-session-settings \
-		${PREFIX/share/themes/io.elementary.stylesheet.strawberry/plank/dock.theme:x11-themes/elementary-stylesheet \
+		${PREFIX}/share/themes/io.elementary.stylesheet.strawberry/plank/dock.theme:x11-themes/elementary-stylesheet \
 		${PREFIX}/share/sounds/elementary/index.theme:x11-themes/elementary-sound-theme
 
 USES=		metaport
