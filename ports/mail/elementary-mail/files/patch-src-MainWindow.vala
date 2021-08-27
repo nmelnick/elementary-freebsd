@@ -16,3 +16,12 @@
              );
          }
  
+@@ -117,7 +117,7 @@ public class Mail.MainWindow : Hdy.ApplicationWindow {
+             } else {
+                 ((Gtk.Application) GLib.Application.get_default ()).set_accels_for_action (
+                     ACTION_PREFIX + ACTION_MOVE_TO_TRASH,
+-                    action_accelerators[ACTION_MOVE_TO_TRASH].to_array ()
++                    { action_accelerators[ACTION_MOVE_TO_TRASH].to_array ()[0] }
+                 );
+             }
+         });
