@@ -1,4 +1,3 @@
-etc/xdg/menus/pantheon-applications.menu
 lib/io.elementary.wingpanel.applications-menu/switchboard-plugin
 lib/wingpanel/libslingshot.so
 share/locale/aa/LC_MESSAGES/slingshot.mo
