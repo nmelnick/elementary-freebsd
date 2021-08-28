@@ -11,6 +11,7 @@ USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
 		python:build gettext
 USE_GNOME=	glib20 gtk30 cairo gnomedesktop3
 USE_XORG=	x11 xfixes
+MESON_ARGS=	-Dappcenter-flatpak=false -Ddefault-wallpaper=/usr/local/share/backgrounds/elementaryos-default
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary

@@ -1,0 +1,6 @@
+--- skel/plank/dock1/launchers/gala-multitaskingview.dockitem.orig	2021-07-15 19:59:55 UTC
++++ skel/plank/dock1/launchers/gala-multitaskingview.dockitem
+@@ -1,2 +1,2 @@
+ [PlankDockItemPreferences]
+-Launcher=file:///usr/share/applications/gala-multitaskingview.desktop
++Launcher=file:///usr/local/share/applications/gala-multitaskingview.desktop

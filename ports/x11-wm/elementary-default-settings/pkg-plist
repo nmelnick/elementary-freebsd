@@ -3,7 +3,6 @@ etc/io.elementary.appcenter/appcenter.hiddenapps
 etc/profile.d/qt-qpa-platformtheme.sh
 etc/profile.d/qt-style-override.sh
 etc/skel/.config/plank/dock1/launchers/gala-multitaskingview.dockitem
-etc/skel/.config/plank/dock1/launchers/io.elementary.appcenter.dockitem
 etc/skel/.config/plank/dock1/launchers/io.elementary.calendar.dockitem
 etc/skel/.config/plank/dock1/launchers/io.elementary.mail.dockitem
 etc/skel/.config/plank/dock1/launchers/io.elementary.music.dockitem
@@ -13,9 +12,6 @@ etc/skel/.config/plank/dock1/launchers/io.elementary.tasks.dockitem
 etc/skel/.config/plank/dock1/launchers/io.elementary.videos.dockitem
 etc/skel/.config/plank/dock1/launchers/org.gnome.Epiphany.dockitem
 etc/skel/.inputrc
-etc/skel/.local/share/flatpak/repo/appcenter.trustedkeys.gpg
-etc/skel/.local/share/flatpak/repo/config
-etc/skel/.local/share/flatpak/repo/objects/.gitignore
 etc/sudoers.d/pwfeedback
 share/accountsservice/interfaces/io.elementary.pantheon.AccountsService.xml
 share/applications/sessioninstaller.desktop

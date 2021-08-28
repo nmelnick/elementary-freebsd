@@ -1,0 +1,7 @@
+--- skel/plank/dock1/launchers/io.elementary.videos.dockitem.orig	2021-07-15 19:59:55 UTC
++++ skel/plank/dock1/launchers/io.elementary.videos.dockitem
+@@ -1,3 +1,3 @@
+ [PlankDockItemPreferences]
+-Launcher=file:///usr/share/applications/io.elementary.videos.desktop
++Launcher=file:///usr/local/share/applications/io.elementary.videos.desktop
+ 
