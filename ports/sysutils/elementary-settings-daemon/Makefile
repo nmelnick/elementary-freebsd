@@ -1,5 +1,5 @@
 PORTNAME=	settings-daemon
-PORTVERSION=	1.0.0
+DISTVERSION=	1.0.0
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

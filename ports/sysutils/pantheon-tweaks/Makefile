@@ -1,5 +1,5 @@
 PORTNAME=	pantheon-tweaks
-PORTVERSION=	1.0.1
+DISTVERSION=	1.0.1
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 

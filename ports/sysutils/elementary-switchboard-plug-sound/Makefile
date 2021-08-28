@@ -1,5 +1,5 @@
 PORTNAME=	switchboard-plug-sound
-PORTVERSION=	2.2.7
+DISTVERSION=	2.2.7
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

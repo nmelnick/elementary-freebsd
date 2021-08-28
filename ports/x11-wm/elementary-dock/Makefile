@@ -1,5 +1,5 @@
 PORTNAME=	dock
-PORTVERSION=	0.1.0
+DISTVERSION=	0.1.0
 CATEGORIES=	x11-wm
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

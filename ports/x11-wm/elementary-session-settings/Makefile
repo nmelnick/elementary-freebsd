@@ -1,5 +1,5 @@
 PORTNAME=	session-settings
-PORTVERSION=	6.0.0
+DISTVERSION=	6.0.0
 CATEGORIES=	x11-wm
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

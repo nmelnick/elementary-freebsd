@@ -1,5 +1,5 @@
 PORTNAME=	switchboard
-PORTVERSION=	6.0.0
+DISTVERSION=	6.0.0
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

@@ -1,5 +1,5 @@
 PORTNAME=	tasks
-PORTVERSION=	6.0.2
+DISTVERSION=	6.0.2
 CATEGORIES=	deskutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

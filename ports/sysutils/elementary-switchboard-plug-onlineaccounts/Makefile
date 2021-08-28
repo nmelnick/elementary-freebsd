@@ -1,5 +1,5 @@
 PORTNAME=	switchboard-plug-onlineaccounts
-PORTVERSION=	6.1.0
+DISTVERSION=	6.1.0
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

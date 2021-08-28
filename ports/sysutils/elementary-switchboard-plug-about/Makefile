@@ -1,5 +1,5 @@
 PORTNAME=	switchboard-plug-about
-PORTVERSION=	6.0.1
+DISTVERSION=	6.0.1
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

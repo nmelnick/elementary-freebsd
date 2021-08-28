@@ -1,7 +1,7 @@
 PORTNAME=		libcloudproviders
 DISTVERSION=		0.3.1
 CATEGORIES=		devel
-MASTER_SITES=		https://gitlab.gnome.org/World/${PORTNAME}/-/archive/${PORTVERSION}/
+MASTER_SITES=		https://gitlab.gnome.org/World/${PORTNAME}/-/archive/${DISTVERSION}/
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
 COMMENT=	DBus API that allows cloud storage sync clients to expose services

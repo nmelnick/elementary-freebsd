@@ -1,5 +1,5 @@
 PORTNAME=	gala
-PORTVERSION=	6.0.1
+DISTVERSION=	6.0.1
 CATEGORIES=	x11-wm
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

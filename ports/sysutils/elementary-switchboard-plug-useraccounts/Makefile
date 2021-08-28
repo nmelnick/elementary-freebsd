@@ -1,5 +1,5 @@
 PORTNAME=	switchboard-plug-useraccounts
-PORTVERSION=	2.4.0
+DISTVERSION=	2.4.0
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-

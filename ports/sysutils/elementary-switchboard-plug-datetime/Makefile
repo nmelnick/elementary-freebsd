@@ -1,5 +1,5 @@
 PORTNAME=	switchboard-plug-datetime
-PORTVERSION=	2.2.0
+DISTVERSION=	2.2.0
 CATEGORIES=	sysutils
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
