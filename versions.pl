@@ -60,7 +60,7 @@ foreach my $project (sort { $a cmp $b } keys %projects) {
 		next;
 	}
 	if ($distversion ne $projects{$project}->{'latest'}) {
-		say '  - ' . $category . '/' . $project . ': DISTVERSION ' . $distversion . ' != ' . $projects{$project}->{'latest'};
+		say '  - ' . $category . '/elementary-' . $project . ': DISTVERSION ' . $distversion . ' != ' . $projects{$project}->{'latest'};
 	}
 }
 
