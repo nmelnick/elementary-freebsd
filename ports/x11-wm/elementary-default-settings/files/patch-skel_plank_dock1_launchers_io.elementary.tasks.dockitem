@@ -1,0 +1,6 @@
+--- skel/plank/dock1/launchers/io.elementary.tasks.dockitem.orig	2021-09-07 14:18:59 UTC
++++ skel/plank/dock1/launchers/io.elementary.tasks.dockitem
+@@ -1,2 +1,2 @@
+ [PlankDockItemPreferences]
+-Launcher=file:///usr/share/applications/io.elementary.tasks.desktop
++Launcher=file:///usr/local/share/applications/io.elementary.tasks.desktop
