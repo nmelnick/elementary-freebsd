@@ -1,5 +1,5 @@
 PORTNAME=	applications-menu
-DISTVERSION=	2.8.1
+DISTVERSION=	2.8.2
 CATEGORIES=	x11-wm
 PKGNAMEPREFIX=	elementary-
 
