@@ -1,5 +1,5 @@
 PORTNAME=	mail
-DISTVERSION=	6.1.0
+DISTVERSION=	6.1.1
 CATEGORIES=	mail
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
