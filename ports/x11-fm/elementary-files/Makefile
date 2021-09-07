@@ -1,6 +1,6 @@
 PORTNAME=	files
 DISTVERSION=	6.0.2
-CATEGORIES=	x11-wm
+CATEGORIES=	x11-fm
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com

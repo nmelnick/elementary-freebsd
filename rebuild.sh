@@ -22,7 +22,7 @@ SESSION=(\
 
 APPS=(\
   "x11-wm/elementary-dock" \
-  "x11-wm/elementary-files" \
+  "x11-fm/elementary-files" \
   "mail/elementary-mail" \
   "deskutils/elementary-notifications" \
   "deskutils/elementary-onboarding" \
