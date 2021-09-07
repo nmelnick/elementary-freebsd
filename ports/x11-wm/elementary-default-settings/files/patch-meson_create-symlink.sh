@@ -1,6 +1,6 @@
---- meson/create-symlink.sh.orig	2021-07-15 23:29:21 UTC
+--- meson/create-symlink.sh.orig	2021-08-31 19:15:18 UTC
 +++ meson/create-symlink.sh
-@@ -6,8 +6,14 @@ set -eu
+@@ -6,7 +6,13 @@ set -eu
  
  mkdir -vp "$(dirname "${DESTDIR:-}$2")"
  if [ "$(dirname $1)" = . -o "$(dirname $1)" = .. ]; then
@@ -16,4 +16,3 @@
 +        ln -vfs "$F" .
 +    fi
  fi
- 
