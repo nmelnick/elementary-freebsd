@@ -1,6 +1,6 @@
 PORTNAME=	dock
 DISTVERSION=	0.1.0
-CATEGORIES=	x11-wm
+CATEGORIES=	x11
 MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
@@ -27,7 +27,7 @@ GLIB_SCHEMAS=	net.launchpad.plank.gschema.xml
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
 GH_PROJECT=	dock
-GH_TAGNAME=	bd37a17909a4461cb5ceee88eca7c859abbf3d0d
+GH_TAGNAME=	a14ba28002c71c1675be4660c46015631d9ab78e
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

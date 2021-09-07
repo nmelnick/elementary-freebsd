@@ -21,7 +21,7 @@ SESSION=(\
 )
 
 APPS=(\
-  "x11-wm/elementary-dock" \
+  "x11/elementary-dock" \
   "x11-fm/elementary-files" \
   "mail/elementary-mail" \
   "deskutils/elementary-notifications" \

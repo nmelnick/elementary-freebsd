@@ -23,7 +23,7 @@ This project adds the following ports, but have not been extensively tested,
 may not have the right dependencies yet, and are not yet submitted to the ports
 tree:
 
-* elementary-dock (replaces plank) (x11-wm) [GitHub](https://github.com/elementary/dock)
+* elementary-dock (replaces plank) (x11) [GitHub](https://github.com/elementary/dock)
 * elementary-files (x11-fm) [GitHub](https://github.com/elementary/files)
 * elementary-gala (x11-wm) [GitHub](https://github.com/elementary/gala)
 * elementary-greeter (x11) [GitHub](https://github.com/elementary/greeter)
