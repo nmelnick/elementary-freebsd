@@ -16,9 +16,9 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgranite.so:x11-toolkits/granite \
 		libhandy-1.so:x11-toolkits/libhandy
 
-USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
+USES=		gmake libtool localbase meson ninja pkgconfig \
 		python:build gettext desktop-file-utils
-USE_GNOME=	glib20 gtk30 cairo gnomedesktop3
+USE_GNOME=	glib20 gtk30 cairo
 USE_XORG=	x11 xfixes
 INSTALLS_ICONS=	yes
 GLIB_SCHEMAS=	io.elementary.switchboard.gschema.xml
