@@ -4,7 +4,6 @@ R=$(cd `dirname "$0"` && pwd)/ports
 
 LIBS=(\
   "devel/libcloudproviders" \
-  "x11-toolkits/granite" \
 )
 
 SESSION=(\

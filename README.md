@@ -16,7 +16,7 @@ date:
 * elementary-code [GitHub](https://github.com/elementary/code)
 * elementary-photos [GitHub](https://github.com/elementary/photos)
 * elementary-videos [GitHub](https://github.com/elementary/videos)
-* granite* [GitHub](https://github.com/elementary/granite)
+* granite [GitHub](https://github.com/elementary/granite)
 * pantheon-calculator [GitHub](https://github.com/elementary/calculator)
 
 This project adds the following ports, but have not been extensively tested,
@@ -47,15 +47,9 @@ tree:
   * wingpanel-indicator-power [GitHub](https://github.com/elementary/wingpanel-indicator-power)
   * wingpanel-indicator-session [GitHub](https://github.com/elementary/wingpanel-indicator-session)
   * wingpanel-indicator-sound [GitHub](https://github.com/elementary/wingpanel-indicator-sound)
-* granite (x11-toolkits) [GitHub](https://github.com/elementary/granite)
 * libcloudproviders (devel) [GNOME GitLab](https://gitlab.gnome.org/World/libcloudproviders)
 
-Granite exists in both, as current elementary development work is targeting
-libgranite 6.1.0. The granite port is literally just a version change.
-
 ## Notes
-
-The granite port is a version bump of the existing port.
 
 The elementary-dock port is a slightly altered version of the existing plank
 port.
