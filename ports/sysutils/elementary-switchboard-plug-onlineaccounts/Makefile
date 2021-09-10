@@ -19,9 +19,9 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libsoup-2.4.so:devel/libsoup \
 		libswitchboard-2.0.so:sysutils/elementary-switchboard
 
-USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
-		python:build gettext
-USE_GNOME=	glib20 gtk30 cairo gnomedesktop3
+USES=		gmake libtool localbase meson ninja pkgconfig gettext \
+		python:build
+USE_GNOME=	glib20 gtk30 cairo
 USE_XORG=	x11 xfixes
 
 USE_GITHUB=	yes
