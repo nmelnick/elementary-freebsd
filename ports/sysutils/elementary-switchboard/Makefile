@@ -1,7 +1,6 @@
 PORTNAME=	switchboard
 DISTVERSION=	6.0.0
 CATEGORIES=	sysutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -25,7 +24,6 @@ GLIB_SCHEMAS=	io.elementary.switchboard.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	switchboard
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

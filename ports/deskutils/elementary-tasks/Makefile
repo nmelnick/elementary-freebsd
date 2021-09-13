@@ -1,7 +1,6 @@
 PORTNAME=	tasks
 DISTVERSION=	6.0.3
 CATEGORIES=	deskutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -34,7 +33,6 @@ GLIB_SCHEMAS=	io.elementary.tasks.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	tasks
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

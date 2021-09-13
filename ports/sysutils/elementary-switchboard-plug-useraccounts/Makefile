@@ -1,7 +1,6 @@
 PORTNAME=	switchboard-plug-useraccounts
 DISTVERSION=	2.4.0
 CATEGORIES=	sysutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -29,7 +28,6 @@ INSTALLS_ICONS=	yes
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	switchboard-plug-useraccounts
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

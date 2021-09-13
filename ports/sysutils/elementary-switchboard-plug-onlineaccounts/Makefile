@@ -1,7 +1,6 @@
 PORTNAME=	switchboard-plug-onlineaccounts
 DISTVERSION=	6.2.0
 CATEGORIES=	sysutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -26,7 +25,6 @@ USE_XORG=	x11 xfixes
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	switchboard-plug-onlineaccounts
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

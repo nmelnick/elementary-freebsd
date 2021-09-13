@@ -1,7 +1,6 @@
 PORTNAME=	gala
 DISTVERSION=	6.0.1
 CATEGORIES=	x11-wm
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -30,7 +29,6 @@ GLIB_SCHEMAS=	org.pantheon.desktop.gala.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	gala
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

@@ -27,7 +27,6 @@ USE_XORG=	x11
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	wingpanel-indicator-datetime
 GLIB_SCHEMAS=	io.elementary.desktop.wingpanel.datetime.gschema.xml
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}

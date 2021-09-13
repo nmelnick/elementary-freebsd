@@ -1,7 +1,6 @@
 PORTNAME=	terminal
 DISTVERSION=	6.0.0
 CATEGORIES=	x11
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -27,7 +26,6 @@ GLIB_SCHEMAS=	io.elementary.terminal.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	terminal
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

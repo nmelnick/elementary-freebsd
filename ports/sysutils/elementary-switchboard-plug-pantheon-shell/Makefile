@@ -1,7 +1,6 @@
 PORTNAME=	switchboard-plug-pantheon-shell
 DISTVERSION=	6.0.0
 CATEGORIES=	sysutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -26,7 +25,6 @@ INSTALLS_ICONS=	yes
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	switchboard-plug-pantheon-shell
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

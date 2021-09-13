@@ -1,7 +1,6 @@
 PORTNAME=	greeter
 DISTVERSION=	6.0.0
 CATEGORIES=	x11
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -29,7 +28,6 @@ USE_XORG=	x11 xfixes
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	greeter
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

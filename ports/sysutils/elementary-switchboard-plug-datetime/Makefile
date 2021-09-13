@@ -1,7 +1,6 @@
 PORTNAME=	switchboard-plug-datetime
 DISTVERSION=	2.2.0
 CATEGORIES=	sysutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -24,7 +23,6 @@ INSTALLS_ICONS=	yes
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	switchboard-plug-datetime
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

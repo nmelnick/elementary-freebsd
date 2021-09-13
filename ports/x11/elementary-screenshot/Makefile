@@ -26,7 +26,6 @@ GLIB_SCHEMAS=	io.elementary.screenshot.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	screenshot
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

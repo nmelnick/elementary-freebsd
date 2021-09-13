@@ -32,7 +32,6 @@ GLIB_SCHEMAS=   io.elementary.desktop.wingpanel.applications-menu.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	applications-menu
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

@@ -1,7 +1,6 @@
 PORTNAME=	mail
 DISTVERSION=	6.1.1
 CATEGORIES=	mail
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -29,7 +28,6 @@ GLIB_SCHEMAS=	io.elementary.mail.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	mail
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

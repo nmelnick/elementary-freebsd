@@ -28,7 +28,6 @@ GLIB_SCHEMAS=	io.elementary.desktop.wingpanel.power.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	wingpanel-indicator-power
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

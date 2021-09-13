@@ -1,7 +1,6 @@
 PORTNAME=	onboarding
 DISTVERSION=	6.0.0
 CATEGORIES=	deskutils
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -25,7 +24,6 @@ GLIB_SCHEMAS=	io.elementary.onboarding.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	onboarding
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 

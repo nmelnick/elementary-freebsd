@@ -1,7 +1,6 @@
 PORTNAME=	default-settings
 DISTVERSION=	6.0.1
 CATEGORIES=	x11-wm
-MASTER_SITES=	https://github.com/
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
@@ -15,7 +14,6 @@ MESON_ARGS=	-Dappcenter-flatpak=false -Ddefault-wallpaper=/usr/local/share/backg
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_PROJECT=	default-settings
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
