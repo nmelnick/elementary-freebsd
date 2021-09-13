@@ -1,5 +1,7 @@
 #!/usr/local/bin/bash
 
+set -e
+
 R=$(cd `dirname "$0"` && pwd)/ports
 
 LIBS=(\
