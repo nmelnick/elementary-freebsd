@@ -1,6 +1,6 @@
 PORTNAME=	switchboard-plug-notifications
 DISTVERSION=	2.2.0
-CATEGORIES=	sysutils
+CATEGORIES=	deskutils
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com

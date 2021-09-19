@@ -33,11 +33,11 @@ APPS=(\
 
 PLUGS=(\
   "sysutils/elementary-switchboard-plug-about" \
-  "sysutils/elementary-switchboard-plug-datetime" \
-  "sysutils/elementary-switchboard-plug-notifications" \
+  "x11-clocks/elementary-switchboard-plug-datetime" \
+  "deskutils/elementary-switchboard-plug-notifications" \
   "sysutils/elementary-switchboard-plug-pantheon-shell" \
-  "sysutils/elementary-switchboard-plug-onlineaccounts" \
-  "sysutils/elementary-switchboard-plug-sound" \
+  "net/elementary-switchboard-plug-onlineaccounts" \
+  "audio/elementary-switchboard-plug-sound" \
   "sysutils/elementary-switchboard-plug-useraccounts" \
   "x11-wm/elementary-applications-menu" \
   "x11-wm/elementary-wingpanel-indicator-a11y" \

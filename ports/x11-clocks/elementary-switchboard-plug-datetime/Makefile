@@ -1,6 +1,6 @@
 PORTNAME=	switchboard-plug-datetime
 DISTVERSION=	2.2.0
-CATEGORIES=	sysutils
+CATEGORIES=	x11-clocks
 PKGNAMEPREFIX=	elementary-
 
 MAINTAINER=	fbsd@nmelnick.fastmail.com
