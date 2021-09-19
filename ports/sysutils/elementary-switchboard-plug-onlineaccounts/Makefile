@@ -11,7 +11,6 @@ LICENSE_FILE=	${WRKSRC}/LICENSE
 
 BUILD_DEPENDS=	valac:lang/vala
 LIB_DEPENDS=	libvala-0.48.so:lang/vala \
-		libcamel-1.2.so:databases/evolution-data-server \
 		libgee-0.8.so:devel/libgee \
 		libgranite.so:x11-toolkits/granite \
 		libhandy-1.so:x11-toolkits/libhandy \
@@ -20,7 +19,7 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 
 USES=		gmake libtool localbase meson ninja pkgconfig gettext \
 		python:build
-USE_GNOME=	glib20 gtk30 cairo
+USE_GNOME=	glib20 gtk30 cairo evolutiondataserver3
 USE_XORG=	x11 xfixes
 
 USE_GITHUB=	yes
