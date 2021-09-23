@@ -6,11 +6,11 @@ use LWP::UserAgent;
 
 my $ua = LWP::UserAgent->new();
 
-# Build project list from rebuild script
+# Build project list from modules script
 say 'Finding projects...';
 my %projects;
-open(my $rebuild_fh, '<', 'rebuild.sh') or die 'Unable to open rebuild.sh: ' . $!;
-while (<$rebuild_fh>) {
+open(my $modules_fh, '<', 'modules.sh') or die 'Unable to open modules.sh: ' . $!;
+while (<$modules_fh>) {
 	if (/^  "(.*?)\/elementary\-(.*?)"/) {
 		$projects{$2} = {
 			latest => 'n/a',
@@ -18,7 +18,7 @@ while (<$rebuild_fh>) {
 		};
 	}
 }
-close($rebuild_fh);
+close($modules_fh);
 
 # Grab GitHub releases RSS and find the latest version
 say 'Retrieving release tags for projects...';
