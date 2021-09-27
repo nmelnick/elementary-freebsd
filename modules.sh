@@ -28,7 +28,6 @@ APPS=(\
   "x11/elementary-screenshot" \
   "sysutils/elementary-switchboard" \
   "deskutils/elementary-tasks" \
-  "x11/elementary-terminal" \
 )
 
 PLUGS=(\
