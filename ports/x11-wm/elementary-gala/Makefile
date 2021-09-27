@@ -1,5 +1,5 @@
 PORTNAME=	gala
-DISTVERSION=	6.0.1
+DISTVERSION=	6.2.0
 CATEGORIES=	x11-wm
 PKGNAMEPREFIX=	elementary-
 
@@ -18,7 +18,7 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgranite.so:x11-toolkits/granite \
 		libgraphene-1.0.so:graphics/graphene \
 		libmutter-6.so:x11-wm/mutter \
-		libplank.so:x11-wm/elementary-dock
+		libplank.so:x11/elementary-dock
 
 USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
 		python:build gettext
