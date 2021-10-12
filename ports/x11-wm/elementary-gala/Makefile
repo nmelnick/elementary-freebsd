@@ -1,5 +1,5 @@
 PORTNAME=	gala
-DISTVERSION=	6.2.0
+DISTVERSION=	6.2.1
 CATEGORIES=	x11-wm
 PKGNAMEPREFIX=	elementary-
 
@@ -17,12 +17,12 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgexiv2.so:graphics/gexiv2 \
 		libgranite.so:x11-toolkits/granite \
 		libgraphene-1.0.so:graphics/graphene \
-		libmutter-6.so:x11-wm/mutter \
+		libmutter-9.so:x11-wm/mutter \
 		libplank.so:x11/elementary-dock
 
 USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
 		python:build gettext
-USE_GNOME=	glib20 gtk30 cairo gnomedesktop3
+USE_GNOME=	glib20 gtk30 cairo gnomedesktop3 gdkpixbuf2
 USE_XORG=	x11 xfixes
 INSTALLS_ICONS=	yes
 GLIB_SCHEMAS=	org.pantheon.desktop.gala.gschema.xml
