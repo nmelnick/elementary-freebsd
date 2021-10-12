@@ -1,5 +1,5 @@
 PORTNAME=	wingpanel-indicator-notifications
-DISTVERSION=	6.0.0
+DISTVERSION=	6.0.1
 CATEGORIES=	x11-wm
 PKGNAMEPREFIX=	elementary-
 
