@@ -1,4 +1,5 @@
 bin/io.elementary.mail
+etc/xdg/autostart/io.elementary.mail-daemon.desktop
 lib/io.elementary.mail/webkit2/libio.elementary.mail-webkit-extension.so
 share/applications/io.elementary.mail.desktop
 share/icons/hicolor/128x128/apps/io.elementary.mail.svg
