@@ -1,5 +1,5 @@
 PORTNAME=	tasks
-DISTVERSION=	6.0.3
+DISTVERSION=	6.0.4
 CATEGORIES=	deskutils
 PKGNAMEPREFIX=	elementary-
 
@@ -26,7 +26,8 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 
 USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
 		python:build gettext
-USE_GNOME=	glib20 gtk30 cairo gnomedesktop3 evolutiondataserver3
+USE_GNOME=	glib20 gtk30 cairo gnomedesktop3 evolutiondataserver3 \
+                gdkpixbuf2
 USE_XORG=	x11 xfixes
 INSTALLS_ICONS=	yes
 GLIB_SCHEMAS=	io.elementary.tasks.gschema.xml
