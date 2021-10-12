@@ -1,5 +1,5 @@
 PORTNAME=	files
-DISTVERSION=	6.0.2
+DISTVERSION=	6.0.3
 CATEGORIES=	x11-fm
 PKGNAMEPREFIX=	elementary-
 
@@ -18,7 +18,7 @@ LIB_DEPENDS=	libcanberra.so:audio/libcanberra \
 		libgit2-glib-1.0.so:devel/libgit2-glib \
 		libgranite.so:x11-toolkits/granite \
 		libhandy-1.so:x11-toolkits/libhandy \
-		libplank.so:x11-wm/elementary-dock \
+		libplank.so:x11/elementary-dock \
 		libsqlite3.so:databases/sqlite3 \
 		libvala-0.48.so:lang/vala \
 		libzeitgeist-2.0.so:sysutils/zeitgeist
