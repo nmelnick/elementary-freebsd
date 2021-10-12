@@ -18,7 +18,7 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgranite.so:x11-toolkits/granite \
 		liblightdm-gobject-1.so:x11/lightdm \
 		libhandy-1.so:x11-toolkits/libhandy \
-		libmutter-6.so:x11-wm/mutter \
+		libmutter-9.so:x11-wm/mutter \
 		libwingpanel.so:x11-wm/elementary-wingpanel
 
 USES=		gmake gnome libtool localbase meson ninja pkgconfig xorg \
