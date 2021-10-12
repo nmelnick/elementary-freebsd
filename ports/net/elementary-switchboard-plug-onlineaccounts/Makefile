@@ -1,5 +1,5 @@
 PORTNAME=	switchboard-plug-onlineaccounts
-DISTVERSION=	6.2.0
+DISTVERSION=	6.2.1
 CATEGORIES=	net
 PKGNAMEPREFIX=	elementary-
 
