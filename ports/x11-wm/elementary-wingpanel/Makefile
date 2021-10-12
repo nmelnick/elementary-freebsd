@@ -1,5 +1,5 @@
 PORTNAME=	wingpanel
-DISTVERSION=	3.0.0
+DISTVERSION=	3.0.1
 CATEGORIES=	x11-wm
 PKGNAMEPREFIX=	elementary-
 
@@ -14,9 +14,9 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 		libgala.so:x11-wm/elementary-gala \
 		libgee-0.8.so:devel/libgee \
 		libgranite.so:x11-toolkits/granite \
-		libmutter-6.so:x11-wm/mutter
+		libmutter-9.so:x11-wm/mutter
 
-USES=		gettext gnome localbase meson desktop-file-utils pkgconfig \
+USES=		gettext gnome localbase meson pkgconfig \
 		ninja python:build xorg
 USE_GNOME=	glib20 gtk30 pango cairo gdkpixbuf2
 USE_LDCONFIG=	yes
