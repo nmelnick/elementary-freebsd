@@ -1,5 +1,5 @@
 PORTNAME=	mail
-DISTVERSION=	6.2.0
+DISTVERSION=	6.3.0
 CATEGORIES=	mail
 PKGNAMEPREFIX=	elementary-
 
@@ -20,7 +20,7 @@ LIB_DEPENDS=	libvala-0.48.so:lang/vala \
 
 USES=		gettext gnome localbase meson ninja pkgconfig \
 		python:build xorg desktop-file-utils
-USE_GNOME=	glib20 gtk30 evolutiondataserver3
+USE_GNOME=	glib20 gtk30 evolutiondataserver3 gdkpixbuf2
 USE_LDCONFIG=	yes
 INSTALLS_ICONS=	yes
 USE_XORG=	x11
