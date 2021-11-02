@@ -25,7 +25,7 @@ GLIB_SCHEMAS=	net.launchpad.plank.gschema.xml
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	elementary
-GH_TAGNAME=	a14ba28002c71c1675be4660c46015631d9ab78e
+GH_TAGNAME=	40e7aa816474d5e006bbd0c207806fd061cf316c
 
 BINARY_ALIAS=	python3=${PYTHON_CMD}
 
