@@ -1,5 +1,5 @@
 PORTNAME=	default-settings
-DISTVERSION=	6.0.1
+DISTVERSION=	6.0.2
 CATEGORIES=	x11-wm
 PKGNAMEPREFIX=	elementary-
 
